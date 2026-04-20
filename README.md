@@ -33,4 +33,4 @@ Hands-on penetration testing engagement in a controlled lab.
 
 ## 📄 Full Technical Report
 
-ethical-hacking-report.pdf
+Veiw rport - (https://github.com/RaghavManoharadas/ethical-hacking-lab-analysis/blob/main/ethical-hacking-report.pdf)
