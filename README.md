@@ -31,4 +31,6 @@ Hands-on penetration testing engagement in a controlled lab.
 - IDS/IPS
 - Network segmentation
 
-## Report
+## 📄 Full Technical Report
+
+ethical-hacking-report.pdf
