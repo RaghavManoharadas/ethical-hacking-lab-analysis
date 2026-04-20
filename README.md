@@ -32,5 +32,4 @@ Hands-on penetration testing engagement in a controlled lab.
 - Network segmentation
 
 ## 📄 Full Technical Report
-
-Veiw rport - (https://github.com/RaghavManoharadas/ethical-hacking-lab-analysis/blob/main/ethical-hacking-report.pdf)
+👉 [View Report](./report/ethical-hacking-report.pdf)
